@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856941222768",
+    "firebase_url": "https://ajudajesus-c09fc-default-rtdb.firebaseio.com",
+    "project_id": "ajudajesus-c09fc",
+    "storage_bucket": "ajudajesus-c09fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856941222768:android:4333c17a64ce1b90520db5",
+        "android_client_info": {
+          "package_name": "com.example.finaceiroapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856941222768-v11i56fcc8l3ddmditj3r1ff82mm35hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6rWKPIikedp1zn3EsfP0V5FPBMI_D49s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856941222768-v11i56fcc8l3ddmditj3r1ff82mm35hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
